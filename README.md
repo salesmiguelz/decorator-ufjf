@@ -4,5 +4,5 @@ Aplicação Java para praticar os conceitos aprendidos na disciplina de Aspectos
 
 **Todos os testes estão na pasta Test.** 
 
-# Diagrama simplifcado
+# Diagrama simplificado
 ![Bridge ](src/imgs/Hamburguer.drawio.png)
